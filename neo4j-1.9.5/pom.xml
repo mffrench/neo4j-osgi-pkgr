@@ -305,12 +305,10 @@
 				    <include>com.sun.jersey.contribs:jersey-multipart</include>
 				    <include>org.mortbay.jetty:jetty</include>
 				    <include>ch.qos.logback:logback-access</include>
-				    <!--
 				    <include>ch.qos.logback:logback-classic</include>
 				    <include>ch.qos.logback:logback-core</include>
 				    <include>org.slf4j:slf4j-api</include>
 				    <include>org.slf4j:slf4j-simple</include>
-				    -->
                                 </includes>
                             </artifactSet>
                             <filters>

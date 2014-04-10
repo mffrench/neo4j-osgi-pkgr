@@ -230,12 +230,12 @@
 	<dependency>
 	    <groupId>ch.qos.logback</groupId>
 	    <artifactId>logback-classic</artifactId>
-	    <version>1.0.7</version>
+	    <version>0.9.30</version>
 	</dependency>
 	<dependency>
 	    <groupId>ch.qos.logback</groupId>
 	    <artifactId>logback-core</artifactId>
-	    <version>1.0.7</version>
+	    <version>0.9.30</version>
 	</dependency>
 	<dependency>
 	    <groupId>com.sun.jersey</groupId>
